@@ -1,0 +1,12 @@
+[ 2016-06-30T21:15:39+08:00 ] ::1 /mychatroom/index.php/H
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:H
+
+[ 2016-06-30T21:44:18+08:00 ] ::1 /mychatroom/index.php/login/check_out
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002042s ]
+ERR: 无法加载模块:Login
+
